@@ -3,9 +3,9 @@ All about me
 
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Chandrashekhar Deurghare</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekhar-deurghare-76776b40b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cs-deurghare/)
 
-### Happy to see you here!&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=chandrashekhar-deurghare.chandrashekhar-deurghare)
+### Happy to see you here!&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cs-deurghare.cs-deurghare)
 
 Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am highly skilled in transforming raw data into meaningful insights using tools like Excel & Power BI. I love playing with datasets, building interactive dashboards.
 
@@ -28,7 +28,6 @@ Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChandrashekharDeurghare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrashekharDeurghare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cs-deurghare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-deurghare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
-
