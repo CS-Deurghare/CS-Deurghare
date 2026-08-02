@@ -9,7 +9,7 @@ All about me
 
 Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am highly skilled in transforming raw data into meaningful insights using tools like Excel & Power BI. I love playing with datasets, building interactive dashboards.
 
-<img align="right" alt="GIF" src="https://github.com/CS-Deurghare/About-Me/Adidas%20Sales%20Dashboard.png" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/CS-Deurghare/About-Me/blob/87d09508a9ce0ecb73c70a31fa3e4ff469c86a43/Adidas%20Sales%20Dashboard.png" width="400" height="225" />
 
 **Talking about Personal Stuffs:**
 
