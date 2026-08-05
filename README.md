@@ -1,5 +1,4 @@
 # About_Me
-All about me
 
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Chandrashekhar Deurghare</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -18,6 +17,8 @@ Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am
 </br>
 
 📊 **This Week I Spent My Time On:**
+- 🧠 Learning Excel & Power BI
+
 <!--START_SECTION:waka-->
 ```text
 
@@ -28,6 +29,6 @@ Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cs-deurghare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-deurghare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cs-deurghare&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-deurghare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
