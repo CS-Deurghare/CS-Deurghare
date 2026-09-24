@@ -14,7 +14,7 @@ Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am
 
 **📜** **Certifications**
 * **Microsoft Excel Mastery** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-UUT1JVJEUY)
-* **Microsoft Excel Beginner to Advance** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-HYDORKBI1H)
+* **MS Excel Beginner to Advance** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-HYDORKBI1H)
 * **Power BI Micro Course** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-YI44QOY2P7)
 
 </br>
