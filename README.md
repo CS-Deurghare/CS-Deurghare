@@ -8,11 +8,14 @@
 
 Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am highly skilled in transforming raw data into meaningful insights using tools like Excel & Power BI. I love playing with datasets, building interactive dashboards.
 
-<img align="right" alt="GIF" src="https://github.com/CS-Deurghare/About-Me/blob/87d09508a9ce0ecb73c70a31fa3e4ff469c86a43/Adidas%20Sales%20Dashboard.png" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/CS-Deurghare/CS-Deurghare/blob/40c3bc88df4ceca42cab53734fe793737f260da6/Superstore%20Sales%20Dashboard.png" width="400" height="225" />
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently working as a freelance Data Analyst;
+## 📜 Certifications
+* **Microsoft Excel Mastery** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-UUT1JVJEUY)
+* **Microsoft Excel Beginner to Advance** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-HYDORKBI1H)
+* **Power BI Micro Course** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-YI44QOY2P7)
 
 </br>
 
